@@ -19,7 +19,7 @@ Project is created with:
 To run this project locally, download it directly (or use a tool like Git-bash, tortoise git, etc.) and access index.html
 
 ## Motivation
-This project is part of Codecamey's Back-End Engineer path
+This project is part of Codecademy's Back-end Engineer path
 
 ## Demo
 https://mosolov2.github.io/mixed-messages/
