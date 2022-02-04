@@ -3,6 +3,7 @@ body {
     padding: 0;
     background-color: rgb(61, 60, 60);
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 .main {
     display: flex;
@@ -87,3 +88,4 @@ body {
     color: #e34865;
     transition: all 0.5s;
 }
+
