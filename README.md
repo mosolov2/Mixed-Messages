@@ -7,7 +7,7 @@
 * [Demo](#demo)
 
 ## General info
-This project is simple funny email generator, that randomly generates comic email greetings, messages and send offs
+This project is a simple funny email generator, that randomly generates comic email greetings, messages and send offs
 	
 ## Technologies
 Project is created with:
